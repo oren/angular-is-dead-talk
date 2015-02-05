@@ -1,5 +1,7 @@
 # Angular.js is Dead
 
+(run the slides with `npm start`)
+
 http://oren.github.io
 
 https://twitter.com/oreng
