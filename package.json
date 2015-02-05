@@ -1,0 +1,14 @@
+{
+  "name": "angular-is-dead-talk",
+  "version": "1.0.0",
+  "description": "The session will be hands-on, everyone bring his/her laptop.",
+  "main": "index.js",
+  "scripts": {
+    "start": "tslide slides.md"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tslide": "^1.0.0"
+  }
+}
