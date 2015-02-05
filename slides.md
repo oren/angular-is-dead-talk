@@ -96,9 +96,7 @@ $("h1").css("color", "red")
 ---
 # Some examples
 
-Not sure what's the best examples to show.
-I prefer to show real modules that are easy to understand -
-something like login module, complete website with multiple modules, etc
+* https://github.com/eddyystop/mithril-components
 
 ---
 # What is a Mithril module?
