@@ -1,4 +1,4 @@
-# Angular.js is Dead
+# AngularJS is Dead
 
            .-. __ _ .-.
            |  `  / \  |
@@ -8,8 +8,6 @@
          =\    '-'    /=
            '-._____.-'
 
-
-# Angular.js is Dead
 
 http://oren.github.io
 
