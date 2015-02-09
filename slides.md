@@ -136,6 +136,7 @@ $("h1").css("color", "red")
 ---
 # Links
 
+* Slides. Intro to Mithril by Leo: http://lhorie.github.io/mithril-presentation-oct-js-tech-night
 * isomorphic: https://github.com/StephanHoyer/mithril-node-render
 * jsx for Mithril: https://github.com/insin/msx
 * Mithril bootstrap modules http://ng-vu.github.io/bootstrap
