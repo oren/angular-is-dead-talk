@@ -2,7 +2,7 @@
 
 Presentation at [Los Angeles AngularJS Meetup](http://www.meetup.com/socal-angular/events/213154962)
 
-![picture](pic.png)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KJ_xAwSeFR8" frameborder="0" allowfullscreen></iframe>
 
 ## View slides
 
