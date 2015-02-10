@@ -1,6 +1,6 @@
 # Angular is Dead
 
-Presentation at [Los Angeles AngularJS Meetup](http://www.meetup.com/socal-angular/events/213154962)
+Presentation at the [Los Angeles AngularJS Meetup](http://www.meetup.com/socal-angular/events/213154962)
 
 [![video](pic.png)](https://www.youtube.com/embed/KJ_xAwSeFR8)
 
