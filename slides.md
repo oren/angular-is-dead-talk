@@ -78,7 +78,7 @@ The design decisions that went into Mithril to reduce learning curves: http://lh
 ---
 # Mithril's basics
 
-* size: 16K (1000 lines)
+* size: 5K (1000 lines)
 * virtual dom
 * commonJS
 * promises
